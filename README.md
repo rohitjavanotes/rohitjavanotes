@@ -29,3 +29,7 @@ https://github.com/leerduo/RetrofitLearning
 https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers
 
 https://github.com/smartherd?tab=repositories
+
+https://github.com/jianjunxiao/android-open-source-project-analysis
+
+https://github.com/jianjunxiao/kotlin-for-android-developers-zh
